@@ -7,8 +7,6 @@
 
 - 🎓 I'm a **BCA Student at VIT**
 - 🌱 Currently learning **DSA & Web Development**
-- 💻 Love building real-world projects
-- 🚀 Goal: Become a **Software Developer**
 - ⚡ Fun fact: I turn ☕ coffee into code 😄
 
 ---
