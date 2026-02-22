@@ -73,7 +73,9 @@
 <a href="https://github.com/Aakif009-new" target="blank">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
-
+<a href="mailto:syedmdaakif007@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
 </p>
 
 
