@@ -75,12 +75,9 @@
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
-<p>
-👻 <a href="https://www.snapchat.com/add/aakif22761" target="_blank">
-Snapchat - aakif22761
+<a href="https://www.snapchat.com/add/aakif22761" target="_blank">
+<img src="https://img.shields.io/badge/Snapchat-yellow?style=for-the-badge&logo=snapchat&logoColor=white" />
 </a>
-</p>
-
 
 
 
