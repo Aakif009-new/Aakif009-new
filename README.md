@@ -79,8 +79,11 @@
 <img src="https://img.shields.io/badge/Snapchat-yellow?style=for-the-badge&logo=snapchat&logoColor=white" />
 </a>
 
+<a href="https://aakif-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-
+----------------
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aakif009-new&color=blue&style=for-the-badge)
