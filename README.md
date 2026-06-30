@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Mohammed Aakif </h1>
-<h3 align="center">BCA Student at VIT | Web Developer | DSA Learner 🚀</h3>
+<h3 align="center">BCA Student at VIT | Web Developer | App devloper🚀</h3>
 
 ---
 
